@@ -1,0 +1,3 @@
+C:/Projects/CodeWars/BasicMathematicalOperations/cmake-build-debug/CMakeFiles/BasicMathematicalOperations.dir
+C:/Projects/CodeWars/BasicMathematicalOperations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CodeWars/BasicMathematicalOperations/cmake-build-debug/CMakeFiles/rebuild_cache.dir

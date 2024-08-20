@@ -1,0 +1,3 @@
+C:/Projects/CodeWars/GradeBook/cmake-build-debug/CMakeFiles/GradeBook.dir
+C:/Projects/CodeWars/GradeBook/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/CodeWars/GradeBook/cmake-build-debug/CMakeFiles/rebuild_cache.dir
